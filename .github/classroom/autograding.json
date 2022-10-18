@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "function 1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest ./tests/test_1.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "function 2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest ./tests/test_2.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "function 3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest ./tests/test_3.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "function 4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest ./tests/test_4.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "function 5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest ./tests/test_5.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
